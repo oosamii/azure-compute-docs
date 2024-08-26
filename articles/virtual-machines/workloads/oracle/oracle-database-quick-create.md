@@ -342,7 +342,8 @@ The Oracle software is already installed on the Marketplace image. Create a samp
        -datafileDestination "/u02/oradata/" \
        -ignorePreReqs
    ```
-
+**please note that the username is "system" and Password is "OraPasswd1"
+please use the above in oracle sql developer application to test or connect to the database. 
    It takes a few minutes to create the database.
 
    The output is similar to the following example:
